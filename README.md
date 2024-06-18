@@ -1,2 +1,2 @@
 # Practice
-Practice for Full web Development course
+Practice for Fullstack web Development course
